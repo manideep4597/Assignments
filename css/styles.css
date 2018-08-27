@@ -1,0 +1,35 @@
+body
+{
+	background: rgb(240,240,220);
+	
+}
+div{
+	width: 600px;
+	margin: auto;
+	background: rgb(255,255,250);height: 650px;
+}
+
+
+
+	.lik{
+		text-align: center;list-style: none;}
+		.lik li
+		{  
+			width: 400px;
+			padding: 20px;border: 2px solid black;
+			letter-spacing: 2px;
+			text-align: center;
+
+		}
+	
+	a{
+		text-decoration: none;text-align: center;
+
+	}
+	a:hover {
+		text-decoration:underline;
+
+	}
+	h2{
+		text-align: center;
+	}

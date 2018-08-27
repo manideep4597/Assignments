@@ -1,0 +1,41 @@
+.wrap{
+	min-width: 600px;
+	width: 80%;
+	margin: auto;color: white;
+}
+body{
+	background: black; 
+}
+.cont,aside{
+	height: 650px;color: black;
+}
+.cont{
+	background: #E5FFCC;float: left;width: 50%;
+
+}
+aside	{
+	background: #D4AF37;float: left;width: 50%;
+
+}
+aside ul{
+	list-style: none; 
+}
+.lik{
+		text-align: center;list-style: none;}
+		.lik li
+		{  
+			width: 75%;
+			padding: 20px;border: 2px solid black;
+			letter-spacing: 2px;
+			text-align: center;
+
+		}
+	
+	a{
+		text-decoration: none;text-align: center;
+
+	}
+	a:hover {
+		text-decoration:underline;
+
+	}
